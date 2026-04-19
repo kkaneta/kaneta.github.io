@@ -1,3 +1,26 @@
+# 2026
+- id: "Kaneta:2026qxx"
+  type: "article"
+  year: 2026
+  authors:
+    - "Kunio Kaneta"
+    - "Tomo Takahashi"
+    - "Natsumi Watanabe"
+  title: "Inflaton Regeneration via Scalar Couplings: Generic Models and the Higgs Portal"
+  arxiv: "2604.14620"
+  
+- id: "Ellis:2026ceb"
+  type: "article"
+  year: 2026
+  authors:
+    - "John Ellis"
+    - "Tony Gherghetta"
+    - "Kunio Kaneta"
+    - "Wenqi Ke"
+    - "Keith A. Olive"
+  title: "Radiative Corrections in Supergravity Models of Inflation"
+  arxiv: "2603.02389"
+
 # 2025
 - id: "ellis2025starobinsky"
   type: "article"
